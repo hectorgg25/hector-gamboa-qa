@@ -1,102 +1,102 @@
-# 👋 Hi, I'm Héctor Iván Gamboa Galeana
+# 👋 ¡Hola! Soy Héctor Iván Gamboa Galeana
 
-# QA Engineer Jr | Manual Testing | API Testing | Selenium | Python
+# QA Engineer Jr. | Testing Manual | Pruebas de API | Selenium | Python
 
-Welcome to my QA Portfolio!
+Bienvenido a mi portafolio de QA.
 
-I'm a Junior QA Engineer passionate about software quality, continuous improvement, and delivering reliable products.
+Soy un **QA Engineer Jr.** apasionado por la calidad del software y la mejora continua. Actualmente me encuentro en transición hacia el mundo del aseguramiento de calidad de software, combinando mi experiencia profesional en control de calidad, resolución de incidencias y liderazgo de equipos con conocimientos técnicos en pruebas manuales, pruebas de APIs y automatización.
 
-After several years leading quality assurance and technical operations in the cinema industry, I decided to transition into Software Quality Assurance. My previous experience strengthened my analytical thinking, attention to detail, incident management, and problem-solving skills—abilities that I now apply to software testing.
+Durante mi formación y participación en proyectos reales he adquirido experiencia práctica en el diseño y ejecución de casos de prueba, validación de APIs REST, documentación de defectos, pruebas funcionales y colaboración con equipos ágiles utilizando metodologías Scrum.
 
-Through professional training, bootcamps, and real-world collaborative projects, I have gained hands-on experience in Manual Testing, REST API Testing, Test Documentation, Defect Management, and basic Test Automation.
-
-This repository contains my portfolio, projects, documentation, and practical exercises developed during my QA learning journey.
+Este repositorio reúne mis proyectos, documentación y evidencias que reflejan mi crecimiento como QA Engineer.
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 Sobre mí
 
-- 📍 Mexico City, Mexico
-- 💼 Junior QA Engineer
-- 🎯 Looking for my first professional opportunity as QA Engineer
-- 🌱 Currently improving my automation testing skills
-- 🤝 Passionate about Agile teamwork and continuous learning
+📍 Ciudad de México
+
+🎯 Buscando mi primera oportunidad profesional como QA Engineer
+
+💻 En constante aprendizaje de Automatización de Pruebas
+
+🤝 Interesado en formar parte de equipos ágiles enfocados en la calidad del software
 
 ---
 
-# 🚀 Technical Skills
+# 🚀 Habilidades Técnicas
 
-## Manual Testing
+## Testing Manual
 
-- Functional Testing
+- Diseño de Casos de Prueba
+- Pruebas Funcionales
 - Smoke Testing
 - Regression Testing
-- Exploratory Testing
-- Integration Testing
-- Negative Testing
-- Positive Testing
+- Pruebas Exploratorias
+- Pruebas Negativas
+- Pruebas Positivas
 - Boundary Value Analysis
 - Equivalence Partitioning
 - User Acceptance Testing (UAT)
 
 ---
 
-## API Testing
+## Testing de APIs
 
-- REST APIs
 - Postman
-- Swagger / OpenAPI
-- JSON Validation
-- HTTP Status Codes
-- Authentication (Bearer Token)
-- Request & Response Validation
-- Collections & Environments
+- Swagger (OpenAPI)
+- APIs REST
+- Validación de JSON
+- Validación de Status Codes
+- Bearer Token
+- Pruebas de Endpoints
+- Validación Request / Response
 
 ---
 
-## Test Documentation
+## Documentación de Pruebas
 
-- Test Plans
+- Test Plan
 - Test Cases
 - Requirement Traceability Matrix (RTM)
 - Bug Reports
-- Test Execution Reports
-- Test Summary Reports
+- Test Execution Report
+- Test Summary Report
 - Checklists
 
 ---
 
-## Defect Management
+## Gestión de Defectos
 
 - Jira
-- Bug Reporting
-- Severity & Priority Analysis
-- Reproduction Steps
-- Root Cause Analysis
+- Reporte de Bugs
+- Severidad y Prioridad
+- Evidencias
+- Pasos para Reproducir Incidencias
 
 ---
 
-## Automation
+## Automatización
 
 - Selenium WebDriver
 - Python
 - Pytest
-- Basic UI Automation
+- Automatización básica de pruebas funcionales
 
 ---
 
-## Database
+## Bases de Datos
 
 - SQL
 - SELECT
 - JOIN
 - GROUP BY
 - ORDER BY
-- Data Validation
+- Validación de datos
 
 ---
 
-## Tools
+## Herramientas
 
 - Jira
 - Postman
@@ -111,170 +111,181 @@ This repository contains my portfolio, projects, documentation, and practical ex
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experiencia Profesional
 
-## QA Tester
-### XLAB – Igrowker (2026 – Present)
+## QA Tester | XLAB - Igrowker
 
-- Designed and executed functional, negative and edge test cases.
-- Performed REST API testing using Postman.
-- Validated JSON responses and HTTP status codes.
-- Reported and tracked defects using Jira.
-- Collaborated with developers and Product Managers in Agile (Scrum) teams.
-- Participated in requirement analysis and quality reviews.
+**2026 - Actualidad**
 
----
+Responsabilidades
 
-## Purchasing Analyst
-### Infratech (2024 – Present)
-
-- Improved operational quality processes.
-- Identified inconsistencies through data analysis.
-- Coordinated suppliers and technical requirements.
-- Solved operational incidents while ensuring service quality.
+- Diseño y ejecución de casos de prueba funcionales, negativos y de borde.
+- Validación de APIs REST utilizando Postman.
+- Verificación de respuestas JSON y códigos HTTP.
+- Reporte y seguimiento de defectos mediante Jira.
+- Trabajo colaborativo bajo metodología Scrum.
+- Participación en revisiones funcionales y validación de requerimientos.
 
 ---
 
-## Project Specialist
-### Cinemex (2021 – 2024)
+## Analista de Compras | Infratech
 
-- Led quality assurance initiatives for technical projects.
-- Coordinated multidisciplinary teams.
-- Resolved critical incidents affecting business operations.
-- Improved operational procedures and service quality.
+**2024 - Actualidad**
 
----
+Responsabilidades
 
-## Operations Supervisor
-### Cinemex (2016 – 2021)
-
-- Validated audio and projection systems.
-- Supervised quality standards across multiple cinema locations.
-- Implemented preventive quality controls.
-- Led technical teams and operational improvements.
+- Control de calidad en procesos administrativos.
+- Detección y análisis de inconsistencias.
+- Gestión de proveedores.
+- Resolución de incidencias.
+- Mejora continua de procesos.
 
 ---
 
-# 📂 Featured Projects
+## Especialista de Proyectos | Cinemex
+
+**2021 - 2024**
+
+Responsabilidades
+
+- Gestión de proyectos técnicos.
+- Aseguramiento de calidad.
+- Resolución de incidencias críticas.
+- Coordinación de equipos multidisciplinarios.
+- Optimización de procesos.
+
+---
+
+## Supervisor Operativo | Cinemex
+
+**2016 - 2021**
+
+Responsabilidades
+
+- Supervisión de estándares de calidad.
+- Validación funcional de sistemas de audio y proyección.
+- Atención y resolución de fallas técnicas.
+- Implementación de controles de calidad.
+
+---
+
+# 📂 Proyectos Destacados
 
 ## 🚛 Black Box
 
-Fleet Management System
+Sistema de gestión y trazabilidad de flotas.
 
-Role
+### Mi participación
 
-QA Manual Tester
-
-Responsibilities
-
-- Requirement Analysis
-- Test Planning
-- Functional Testing
+- Análisis de requerimientos
+- Diseño de Casos de Prueba
+- Testing Manual
 - API Testing
 - Smoke Testing
 - Regression Testing
-- Bug Reporting
-- RTM
+- Reporte de Bugs
+- Elaboración de RTM
 - Test Summary Report
 
-Tools
+### Herramientas utilizadas
 
 - Postman
 - Swagger
 - Jira
 - GitHub
+- Google Sheets
 
 ---
 
 ## 🛒 Urban Grocers
 
-REST API Testing Project
+Proyecto de pruebas sobre APIs REST.
 
-Highlights
+Actividades realizadas
 
-- API Validation
-- Authentication Testing
-- Error Handling
-- JSON Validation
-- HTTP Status Codes
-- Automated Requests
+- Validación de Endpoints
+- Autenticación mediante Token
+- Validación de respuestas JSON
+- Validación de códigos HTTP
+- Manejo de escenarios positivos y negativos
 
 ---
 
-## 🤖 Selenium Automation
+## 🤖 Automatización con Selenium
 
-UI Automation Practice
+Proyecto de automatización utilizando Python.
 
-- Selenium WebDriver
-- Python
-- Pytest
+Incluye
+
+- Automatización de Login
+- Validaciones de interfaz
 - Assertions
-- Login Automation
-- UI Validation
+- Selenium WebDriver
+- Pytest
 
 ---
 
 ## 📱 Mobile Testing
 
-Android Studio
-
-- Functional Testing
-- UI Validation
-- Basic Mobile Testing
+Pruebas funcionales utilizando Android Studio.
 
 ---
 
-# 📚 Education
+# 🎓 Formación Académica
 
-🎓 QA Engineering Bootcamp
+**Bootcamp QA Engineering**
+
 TripleTen
 
-🎓 Electronic Engineering
-Universidad Autónoma Metropolitana (UAM)
+---
+
+**Ingeniería en Electrónica**
+
+Universidad Autónoma Metropolitana
 
 ---
 
-# 🌍 Languages
+# 🌎 Idiomas
 
-🇲🇽 Spanish — Native
+🇲🇽 Español — Nativo
 
-🇺🇸 English — B1
+🇺🇸 Inglés — Intermedio (B1)
 
 ---
 
-# 📈 Currently Learning
+# 📚 Actualmente aprendiendo
 
-- Advanced API Testing
+- Automatización de pruebas
 - Playwright
-- CI/CD Fundamentals
-- Advanced SQL
-- Test Automation
-- ISTQB Foundation Concepts
+- SQL Avanzado
+- CI/CD
+- Azure DevOps
+- ISTQB Foundation
 
 ---
 
-# 🎯 Career Goal
+# 🎯 Objetivo Profesional
 
-My goal is to join a software development team where I can contribute to delivering high-quality products while continuing to grow as a QA Engineer in both manual and automated testing.
-
----
-
-# 📫 Contact
-
-📧 Email
-
-felpa4534@gmail.com
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/hector-gamboa-qa/
-
-💻 GitHub
-
-https://github.com/hectorgg25
+Mi objetivo es integrarme a un equipo de desarrollo de software como QA Engineer, donde pueda aportar valor mediante pruebas funcionales, validación de APIs, documentación de calidad y mejora continua, al mismo tiempo que continúo desarrollando mis conocimientos en automatización de pruebas.
 
 ---
 
-Thank you for visiting my portfolio!
+# 📫 Contacto
 
-Feel free to explore my projects and documentation.
+📧 **Correo**
+
+**felpa4534@gmail.com**
+
+💼 **LinkedIn**
+
+www.linkedin.com/in/hector-gamboa-qa
+
+💻 **GitHub**
+
+github.com/hectorgg25
+
+---
+
+## ¡Gracias por visitar mi portafolio!
+
+Aquí encontrarás evidencia de mi trabajo, documentación de pruebas y proyectos desarrollados durante mi formación como QA Engineer.
